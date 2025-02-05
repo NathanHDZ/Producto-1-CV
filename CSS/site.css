@@ -70,10 +70,10 @@ body {
 }
 
 .my-photo {
-    border-radius: 90px;
-    max-height: 11.25rem;
+    border-radius: 60px;
+    max-height: 13.25rem;
     max-width: 11.25rem;
-    height: 11.25rem;
+    height: 13.25rem;
     width: 11.25rem;
     margin-top: -7rem;
     margin-bottom: 1.5625rem;
